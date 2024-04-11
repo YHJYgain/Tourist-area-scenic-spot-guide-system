@@ -12,7 +12,7 @@ CSDN Blog：[Small project development - Tourist attractions guide system -CSDN 
 | ---------------------------------- | ------------------------------------------------------------ |
 | Operating system                   | [Windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) |
 | Integrated development environment | DevC++ 5.11                                                  |
-| Programming language               | C                                                            |
+| Programming language               | C++                                                          |
 
 #### Installation
 
